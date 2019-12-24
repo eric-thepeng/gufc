@@ -6,4 +6,4 @@
 - Notes: only mode 1v1 duel and tutorial are available. mode solo/coop mission are not opened yet
 ---
 - Description:
-A game by Seablaze Studio
+- A game by Seablaze Studio
