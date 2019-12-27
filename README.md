@@ -5,6 +5,7 @@
 - Version: Beta 1.1 
 - Platform: Max OS X
 - Credit: Peng(Eric) Guo @Seablaze Studio
+- Contact: seablazestudio@gamil.com or errrrrricg@gmail.com
 
 # Game Background:
 - Guo's Underground Fight Club (GUFC) is a game demo made by Seablaze Studio. 
