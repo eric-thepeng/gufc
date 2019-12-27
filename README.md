@@ -3,7 +3,7 @@
 - Download link: https://drive.google.com/file/d/1IhcNeIind_Ab-uTQEFwg_d4qTofTpHFP/view?usp=sharing
 - Latest Update: December 24, 2019
 - Version: Beta 1.1 
-- Platform: Max OS X
+- Platform: Max OS X (Windows10 version coming soon)
 - Credit: Peng(Eric) Guo @Seablaze Studio
 - Contact: seablazestudio@gamil.com or errrrrricg@gmail.com
 
