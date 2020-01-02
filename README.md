@@ -24,7 +24,7 @@
 
 # The Crew:
 - Entire crew of Seablaze Studio (not all contributed to this game)
-- Programming: Eric Guo; Michael Luo; Wade Wang
+- Programming: Eric Guo; Leon Li; Michael Luo; Wade Wang
 - Music: Jady Huang; William Tao; Winnie Ding; Michael Luo
-- Art: Jasmine Zhang; Nick Chen; Cecilia Wang
+- Art: Jasmine Zhang; Amitai Debiche; Nick Chen; Cecilia Wang
 - Design: collective effort;
